@@ -16,11 +16,12 @@ int main(){
 // in order to use this library we use #include.
 
 // using namespace std; ... by using this we do not need to write
-// std in each line. like std::cout << "hello rishabh, keep moving forward" << endl;
+// std:: in each line. like std::cout << "hello rishabh, keep moving forward" << endl;
+
 
 // cout << .. it is used for printing output.
-
 // cin >> .. it is used for taking input from user.
+
 
 // endl; or "\n" .. takes you to the next line but \n is faster.
 
